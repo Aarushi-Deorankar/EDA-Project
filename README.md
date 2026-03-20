@@ -1,17 +1,17 @@
-# 📊 Financial Data Analysis (EDA Project)
+# Financial Data Analysis (EDA Project)
 
-## 🎯 Aim
+## Aim
 
 To perform cleaning and visualization of financial (stock market) data.
 
-## 🧰 Tools Used
+## Tools Used
 
 * Python
 * Pandas
 * Matplotlib
 * Seaborn
 
-## 📌 Objective
+##  Objective
 
 The main objective of this project is to:
 
@@ -20,7 +20,7 @@ The main objective of this project is to:
 * Analyze important features like closing price and trading volume
 * Generate meaningful visualizations to understand trends and patterns
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used in this project contains stock market information such as:
 
@@ -31,7 +31,7 @@ The dataset used in this project contains stock market information such as:
 * Closing Price
 * Volume
 
-## 🔄 Steps Performed
+##  Steps Performed
 
 ### 1. Data Cleaning
 
@@ -52,16 +52,16 @@ The dataset used in this project contains stock market information such as:
 * Heatmap for correlation between variables
 * Distribution plots for understanding data spread
 
-## 📈 Key Insights
+## Key Insights
 
 * Identified trends in stock closing prices over time
 * Observed fluctuations in trading volume
 * Found relationships between different stock attributes
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates how raw financial data can be transformed into meaningful insights using data cleaning and visualization techniques. It helps in better understanding stock market behavior and supports decision-making.
 
----
 
-⭐ This project is a basic implementation of Exploratory Data Analysis (EDA) on financial data using Python.
+
+This project is a basic implementation of Exploratory Data Analysis (EDA) on financial data using Python.
